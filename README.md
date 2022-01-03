@@ -1,4 +1,4 @@
 # Introduction
 
-This is a repository created by *Aex*
+This is a repository created by *Alex*
 
